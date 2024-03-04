@@ -19,4 +19,12 @@
 
 .favoritar {
   width: 25px;
+  transition: opacity 0.3 ease;
 }
+
+.favoritar:hover{
+    cursor: pointer;
+}
+.favoritar.favorito {
+    opacity: 0.7 ease; 
+  }
