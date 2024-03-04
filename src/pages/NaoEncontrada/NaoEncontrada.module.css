@@ -1,0 +1,6 @@
+.arnold{
+    width: 300px;
+    border-radius: 50px;
+    border-color: var(--preto);
+    box-shadow: 2px 2px 2px rgb(114, 114, 112);
+}

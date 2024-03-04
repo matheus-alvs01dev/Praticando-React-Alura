@@ -28,3 +28,9 @@
 .favoritar.favorito {
     opacity: 0.7 ease; 
   }
+
+.link{
+    text-decoration: none;
+    color:var(--preto);
+    text-align: center;
+}
